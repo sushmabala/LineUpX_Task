@@ -1,6 +1,9 @@
 # LineupX Assignment
 
-Web application using the MERN stack
+<h2> Web application using the MERN stack </h2>
+![1  Home Screen](https://user-images.githubusercontent.com/58509992/118310972-eb7ced00-b50c-11eb-9685-fec8449caa98.png)
+
+
 
 <h2> Registration Pages- Different Registration pages for both Employer and candidate.</h2>
  
@@ -17,7 +20,7 @@ Web application using the MERN stack
 
 <h3> Applicant Login </h3>
 
-![9  Applicant Profile](https://user-images.githubusercontent.com/58509992/118310592-77424980-b50c-11eb-8cae-35c22725b8a2.png)
+![Applicant Login](https://user-images.githubusercontent.com/58509992/118310915-d56f2c80-b50c-11eb-9a16-4f9decc2723b.png)
 
 <h3> Recruiter Login </h3>
 
