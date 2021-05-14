@@ -11,7 +11,7 @@ Different Registration pages for both Employer and candidate.
 Single/different login pages for Employers & Candidates.
 ![8  Applicant Login](https://user-images.githubusercontent.com/58509992/118309484-f33b9200-b50a-11eb-969d-c39b5e865782.png)
 ![3  Recruiter Home](https://user-images.githubusercontent.com/58509992/118309592-18c89b80-b50b-11eb-913b-c8e8d2083957.png)
-![Uploading Screenshot (179).png…]()
+
 
 <h3> Open Jobs </h3>
 This page is restricted to the Employer,renders the jobs which have been posted previously by Employer.
