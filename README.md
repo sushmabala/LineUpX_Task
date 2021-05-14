@@ -3,33 +3,32 @@
 <h2> Web application using the MERN stack </h2>
 
 ![1  Home Screen](https://user-images.githubusercontent.com/58509992/118311075-0c454280-b50d-11eb-999f-8292b1285133.png)
-
 <h2> Registration Pages- Different Registration pages for both Employer and candidate.</h2>
  
-<h3>Recruiter Register</h3>
+<h3>RECRUITER REGISTER</h3>
 
 ![image](https://user-images.githubusercontent.com/58509992/118309909-8c6aa880-b50b-11eb-85cc-33153623ed08.png)
 
-<h3>Applicant Register</h3>
+<h3>APPLICANT REGISTER</h3>
 
 ![image](https://user-images.githubusercontent.com/58509992/118309945-97253d80-b50b-11eb-8e36-676190d564ce.png)
 
 
 <h2> Login Pages - login pages for Employers & Candidates. </h2>
 
-<h3> Applicant Login </h3>
+<h3> APPLICANT LOGIN </h3>
 
 ![Applicant Login](https://user-images.githubusercontent.com/58509992/118310915-d56f2c80-b50c-11eb-9a16-4f9decc2723b.png)
 
-<h3> Recruiter Login </h3>
+<h3> RECRUITER LOGIN </h3>
 
 ![3  Recruiter Home](https://user-images.githubusercontent.com/58509992/118309592-18c89b80-b50b-11eb-913b-c8e8d2083957.png)
 
 
-<h3> Open Jobs </h3>
+<h3> OPEN JOBS </h3>
 This page is restricted to the Employer,renders the jobs which have been posted previously by Employer.
 <h3> Received Jobs Page </h3> This page is restricted to the Candidates consists of the job that has been posted by the Employer. 
-<h2> Functionalities</h2>
+<h2> FUNCTIONALITIES</h2>
 
   <h2> Recruiters can post the jobs </h2> <br/> 
   ![5  Recruiter Add Job](https://user-images.githubusercontent.com/58509992/118311230-3dbe0e00-b50d-11eb-8d26-3e0d768616af.png)
