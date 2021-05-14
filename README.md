@@ -30,19 +30,24 @@ This page is restricted to the Employer,renders the jobs which have been posted 
 <h3> Received Jobs Page </h3> This page is restricted to the Candidates consists of the job that has been posted by the Employer. 
 <h2> FUNCTIONALITIES</h2>
 
-  <h2> Recruiters can post the jobs </h2> <br/> 
+  <h2> Recruiters can post the jobs </h2> 
+  
   ![5  Recruiter Add Job](https://user-images.githubusercontent.com/58509992/118311230-3dbe0e00-b50d-11eb-8d26-3e0d768616af.png)
 
-  <h2> Candidates can apply for the jobs </h2> <br/> 
+  <h2> Candidates can apply for the jobs </h2> 
+  
   ![14  Applicant applying for job](https://user-images.githubusercontent.com/58509992/118311248-44e51c00-b50d-11eb-99ba-d415e5a3afa3.png)
 
-  <h2> Recruiters can shortlist the candidates from received applications </h2><br/> 
+  <h2> Recruiters can shortlist the candidates from received applications </h2>
+  
   ![18  Recruiter shortlist or reject received application](https://user-images.githubusercontent.com/58509992/118311271-4b739380-b50d-11eb-8555-b2ecb94f3efe.png)
 
-  <h2> Recruiters can accept(hire) the candidates if shortlisted </h2><br/> 
+  <h2> Recruiters can accept(hire) the candidates if shortlisted </h2>
+  
   ![19  Recruiter Accept applicant after shortlist](https://user-images.githubusercontent.com/58509992/118311282-50d0de00-b50d-11eb-950f-d30ce3a618c2.png)
 
-  <h2> Candidate can accept the offer if interested </h2> <br/>
+  <h2> Candidate can accept the offer if interested </h2> 
+  
   ![16  Applicant Dashboard](https://user-images.githubusercontent.com/58509992/118311294-562e2880-b50d-11eb-8d6f-dd73cd5f8890.png)
 
   <h2> Recruiters can rate the employee based on performance. </h2>
