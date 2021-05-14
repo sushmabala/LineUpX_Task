@@ -51,5 +51,6 @@ This page is restricted to the Employer,renders the jobs which have been posted 
   ![16  Applicant Dashboard](https://user-images.githubusercontent.com/58509992/118311294-562e2880-b50d-11eb-8d6f-dd73cd5f8890.png)
 
   <h2> Recruiters can rate the employee based on performance. </h2>
+  
   ![20  Recruiter Rate Employee](https://user-images.githubusercontent.com/58509992/118311302-5af2dc80-b50d-11eb-86a6-e1f4377cb0a1.png)
 
