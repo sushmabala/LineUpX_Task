@@ -1,9 +1,8 @@
 # LineupX Assignment
 
 <h2> Web application using the MERN stack </h2>
-![1  Home Screen](https://user-images.githubusercontent.com/58509992/118310972-eb7ced00-b50c-11eb-9685-fec8449caa98.png)
 
-
+![1  Home Screen](https://user-images.githubusercontent.com/58509992/118311075-0c454280-b50d-11eb-999f-8292b1285133.png)
 
 <h2> Registration Pages- Different Registration pages for both Employer and candidate.</h2>
  
