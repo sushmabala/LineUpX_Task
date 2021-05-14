@@ -1,65 +1,25 @@
-# JobsPlanet
+# LineupX Assignment
 
-Complete Job Portal made with MERN stack.
+Web application using the MERN stack
 
-## Installations
-
-### Node
-
-* For Linux:
-```
-curl -sL https://deb.nodesource.com/setup_13.x | sudo -E bash -
-sudo apt-get install -y nodejs
-```
-
-* For Mac:
-```
-brew install node
-```
-
-### MongoDB
-
-Install the community edition [here](https://docs.mongodb.com/manual/installation/#mongodb-community-edition-installation-tutorials).
-
-
-### React
-
-```
-npm install -g create-react-app
-```
-
-* To create a new React app:
-```
-create-react-app name_of_app
-```
-
-* To run the app, cd into the directory and do:
-```
-npm start
-```
-
-## Run
-
-* Run Mongo daemon:
-```
-sudo mongod
-```
-Mongo will be running on port 27017.
-
-
-* Run Express Backend:
-```
-cd backend/
-npm install
-npm start
-```
-
-* Run React Frontend:
-```
-cd frontend
-npm install/
-npm start
-```
-
-Navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
-
+<h3> Registration Pages </h3>
+Different Registration pages for both Employer
+and candidate. 
+<h3> Login Pages </h3>
+Single/different login pages for Employers & Candidates.
+c. Open Jobs: 
+This page is restricted to the Employer. An Employer once
+logged in, should be able to see this page. Functionality: This page
+should render the jobs which have been posted previously by this
+Employer.
+d. Received Jobs Page: This page is restricted to the Candidate. A
+candidate once logged in should see this page. This page consists of
+the job that has been posted by the Employer. Functionality:
+Candidates can accept or reject a particular job.
+e. Accepted Job: This page is restricted to the Candidate. Functionality:
+i. The job which has been accepted by the respective Candidate
+should be moved to this panel. Where the candidate can see
+the jobs that he has been accepted previously.
+ii. The candidate should be able to undo the accepted job so that
+the respective job moved to Received Job Page.
+f. Rejected Jobs: This
