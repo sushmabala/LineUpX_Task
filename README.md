@@ -2,7 +2,7 @@
 
 Web application using the MERN stack
 
-<h3> Registration Pages- Different Registration pages for both Employer and candidate.</h3>
+<h2> Registration Pages- Different Registration pages for both Employer and candidate.</h2>
  
 <h3>Recruiter Register</h3>
 
@@ -13,11 +13,11 @@ Web application using the MERN stack
 ![image](https://user-images.githubusercontent.com/58509992/118309945-97253d80-b50b-11eb-8e36-676190d564ce.png)
 
 
-<h3> Login Pages - login pages for Employers & Candidates. </h3>
+<h2> Login Pages - login pages for Employers & Candidates. </h2>
 
 <h3> Applicant Login </h3>
 
-![8  Applicant Login](https://user-images.githubusercontent.com/58509992/118309484-f33b9200-b50a-11eb-969d-c39b5e865782.png)
+![9  Applicant Profile](https://user-images.githubusercontent.com/58509992/118310592-77424980-b50c-11eb-8cae-35c22725b8a2.png)
 
 <h3> Recruiter Login </h3>
 
