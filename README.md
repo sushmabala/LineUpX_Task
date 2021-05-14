@@ -16,11 +16,11 @@
 
 <h2> Login Pages - login pages for Employers & Candidates. </h2>
 
-<h3> APPLICANT LOGIN </h3>
+<h3> APPLICANT LOGIN - HOME </h3>
 
 ![Applicant Login](https://user-images.githubusercontent.com/58509992/118310915-d56f2c80-b50c-11eb-9a16-4f9decc2723b.png)
 
-<h3> RECRUITER LOGIN </h3>
+<h3> RECRUITER LOGIN- HOME </h3>
 
 ![3  Recruiter Home](https://user-images.githubusercontent.com/58509992/118309592-18c89b80-b50b-11eb-913b-c8e8d2083957.png)
 
