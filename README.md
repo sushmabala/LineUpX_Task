@@ -11,8 +11,8 @@ Single/different login pages for Employers & Candidates.
 This page is restricted to the Employer,renders the jobs which have been posted previously by Employer.
 <h3> Received Jobs Page </h3> This page is restricted to the Candidates consists of the job that has been posted by the Employer. 
 <h3> Functionalities</h3>
- --> Recruiter posts the job
- --> Candidate apply for the job
-  Recruiter can shortlist the candidate from received applications
-  Recruiter can accept(hire) the candidate if shortlisted
+  Recruiter posts the job <br/> 
+  Candidate apply for the job <br/> 
+  Recruiter can shortlist the candidate from received applications<br/> 
+  Recruiter can accept(hire) the candidate if shortlisted<br/> 
   Recruiter can rate the employee based on performance.
