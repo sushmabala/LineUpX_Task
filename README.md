@@ -27,7 +27,13 @@
 
 <h3> OPEN JOBS </h3>
 This page is restricted to the Employer,renders the jobs which have been posted previously by Employer.
+
+![12  Applicant View available Jobs](https://user-images.githubusercontent.com/58509992/118312451-fd5f8f80-b50e-11eb-9623-017360e97f06.png)
+
 <h3> Received Jobs Page </h3> This page is restricted to the Candidates consists of the job that has been posted by the Employer. 
+
+![17  Recruiter view posted jobs](https://user-images.githubusercontent.com/58509992/118312483-0cded880-b50f-11eb-8e31-61f798577222.png)
+
 <h2> FUNCTIONALITIES</h2>
 
   <h2> Recruiters can post the jobs </h2> 
