@@ -2,10 +2,11 @@
 
 Web application using the MERN stack
 
-<h3> Registration Pages </h3>
-Different Registration pages for both Employer and candidate. 
-
+<h3> Registration Pages- Different Registration pages for both Employer and candidate.</h3>
+ 
+<h3>Recruiter Register</h3>
 ![image](https://user-images.githubusercontent.com/58509992/118309909-8c6aa880-b50b-11eb-85cc-33153623ed08.png)
+<h3>Applicant Register</h3>
 ![image](https://user-images.githubusercontent.com/58509992/118309945-97253d80-b50b-11eb-8e36-676190d564ce.png)
 
 
